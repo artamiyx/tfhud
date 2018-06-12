@@ -1,6 +1,7 @@
 Flarepunch
 ====
 **A Team Fortress 2 Heads Up Display. Created by omnibombulator**
+**Custom Edit by Artamiyx**, who changed images and other resolution files for a different experience.
 Thanks for downloading noto! This README will guide you through installation, as well as some of the customizations you're able to make within the HUD.
 
 | <a href="#compatibility-">Compatibility</a> | <a href="#installing-the-hud-">Installing the HUD</a> | <a href="#customization-">Customization</a> | <a href="#additional-information-">Additional Information</a> |
